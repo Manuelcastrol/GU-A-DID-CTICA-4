@@ -6,3 +6,10 @@ C:\Users\English\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.cspr
 C:\Users\English\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
 C:\Users\English\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 C:\Users\English\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\MINEDUCYT\Documents\GitHub\GU-A-DID-CTICA-4\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\MINEDUCYT\Documents\GitHub\GU-A-DID-CTICA-4\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\MINEDUCYT\Documents\GitHub\GU-A-DID-CTICA-4\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\MINEDUCYT\Documents\GitHub\GU-A-DID-CTICA-4\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Documents\GitHub\GU-A-DID-CTICA-4\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Documents\GitHub\GU-A-DID-CTICA-4\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\MINEDUCYT\Documents\GitHub\GU-A-DID-CTICA-4\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
